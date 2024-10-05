@@ -4,14 +4,13 @@
 
 <br>
 <br>
-<br>
 
 ---
 <br>
 
 ## Flappy Bird
 
-<img src="flappybird.png" alt="Description of the image" style="min-width: 400px; max-width: 600px;">
+<img src="flappybird.png" alt="Description of the image" style="min-width: 400px; max-width: 500px;">
 
 <br>
 復刻經典遊戲 <a href="https://flappybird.io/">Flappy Bird</a>
@@ -35,7 +34,7 @@ Unity、Android
 
 ## The World's Hardest Game
 
-<img src="theworldshardestgame.png" alt="Description of the image" style="max-width: 600px;">
+<img src="theworldshardestgame.png" alt="Description of the image" style="max-width: 500px;">
 
 <br>
 復刻網頁遊戲 <a href="https://www.crazygames.com/game/worlds-hardest-game">The World's Hardest Game</a> 第一關
@@ -64,7 +63,7 @@ v2.0&nbsp;&nbsp;增加虛擬搖桿和 apk 安裝檔
 
 ## Black Jack 二十一點
 
-<img src="blackjack.png" alt="Description of the image" style="max-width: 600px;">
+<img src="blackjack.png" alt="Description of the image" style="max-width: 500px;">
 
 <br>
 
