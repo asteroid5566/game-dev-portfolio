@@ -5,6 +5,7 @@
 <br>
 <br>
 
+
 ---
 <br>
 
@@ -28,6 +29,7 @@ Unity、Android
 
 <br>
 <br>
+
 
 ---
 <br>
@@ -74,3 +76,26 @@ visual studio 2019<br>
 J, Q, K 視為 10 點，A 可視為 1 或 11 點<br>
 玩家持續要牌，接近 21 點時停止，換莊家要牌<br>
 任一方超過 21 點落敗，未超過則較接近的人獲勝<br>
+
+
+---
+<br>
+
+## Basketball Shooting (Unfinished)
+
+<img src="baskballshooting2d.png" alt="Description of the image" style="max-width: 500px;">
+
+<br>
+投籃遊戲 (待完成)
+
+#### 執行環境
+Unity、Android
+
+#### 玩法
+
+拖曳箭頭調整發力
+<br>
+點擊籃球投出
+<br>
+
+---
