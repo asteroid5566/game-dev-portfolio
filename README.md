@@ -3,8 +3,6 @@
 .apk 檔案為 Android 手機安裝檔，建議在 16 : 9 解析度執行
 
 <br>
-<br>
-
 
 ---
 <br>
@@ -79,6 +77,28 @@ J, Q, K 視為 10 點，A 可視為 1 或 11 點<br>
 
 
 ---
+<br>
+
+## Car Racing (Unfinished)
+
+<img src="carracing2d.png" alt="Description of the image" style="max-width: 500px;">
+
+<br>
+賽車遊戲 (待完成)
+
+#### 執行環境
+Unity、Android
+
+#### 玩法
+
+方向鍵移動<br>
+按 shift 或螢幕上的 drift 鍵飄移<br>
+點擊 N2O 圖案加速
+<br>
+
+---
+
+
 <br>
 
 ## Basketball Shooting (Unfinished)
